@@ -1,1 +1,1 @@
-My first readme
+I am excited to announce the launch of my first ALX Github project as a student. This project will be my culmination of work, dedication and learning. I would like to take this opportunity to thank my mentors and everyone who is helping me along the way in advance.
